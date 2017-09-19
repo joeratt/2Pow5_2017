@@ -1,6 +1,6 @@
 # DNA Sequencing
 
-This is a challenge found on Reddit: [](https://www.reddit.com/r/dailyprogrammer/comments/2zyipu/20150323_challenge_207_easy_bioinformatics_1_dna/)
+This is a challenge found on Reddit: [https://www.reddit.com/r/dailyprogrammer/comments/2zyipu/20150323_challenge_207_easy_bioinformatics_1_dna/](https://www.reddit.com/r/dailyprogrammer/comments/2zyipu/20150323_challenge_207_easy_bioinformatics_1_dna/)
 
 Example Execution:
 ```
