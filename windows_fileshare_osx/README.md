@@ -1,6 +1,8 @@
 # Windows Fileshare -- OS X
 
-This script is a quick utility for connecting to a Windows Fileshare from OS X. This utility allows users to easily connect to "\\my\server\abc" by entering the URL in the prompt.
+This script is a quick utility for connecting to a Windows Fileshare from OS X. This utility allows users to easily connect to `\\my\server\abc` by entering the URL in the prompt.
+
+This program eliminates the need to reverse slashes, add "smb:" at the beginning, and remember how to open a fileshare in Finder. Just copy/paste that Windows Fileshare URL in to the prompt.
 
 This can be added to your user scripts to be easily-accessable within your OS X titlebar.
 
